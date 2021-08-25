@@ -1,0 +1,222 @@
+@media(max-width:1200px){
+    .fixed-width {
+     max-width: 100%;
+    }
+    .baner {
+
+        height: 83px;
+    }
+    .baner-caption h1 {
+        font-size: 37px;
+        line-height: 66px;
+        padding: 8px 77px;
+        margin-bottom: 10px;
+    }
+
+    .baner-caption p {
+        padding: 16px 5px;
+        font-size: 39px;
+        max-width: 564px;
+    }
+    .baner-caption {
+        margin-top: -56px;
+        position: relative;
+        right: 77px;
+    }
+    .right ul {
+        padding: 16px 40px;
+    }
+    .blog-site-l {
+        float: left;
+        margin-left: 49px;
+    }
+    .blog-site-l img {
+        width: 342px;
+        height: auto;
+    }
+    .list {
+        float: inherit;
+        text-align: center;
+    }
+    .list ul li {
+        padding: 10px 67px;
+        font-size: 27px;
+    }
+}
+@media(max-width:992px){
+
+    .icon a {
+        float: none;
+    }
+    .icon {
+        text-align: center;
+    }
+    .manu ul {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    .baner-caption {
+        right: 1px;
+    }
+    .baner {
+        height: 10px;
+    }
+    .service {
+        width: 28.33%;
+    }
+    .list {
+        float: inherit;
+        text-align: center;
+    }
+    .list ul li {
+        padding: 10px 67px;
+        font-size: 27px;
+    }
+
+}
+@media(max-width:850px){
+    .manu ul li:first-child {
+        border-left: none;
+    }
+    .manu ul li a {
+        text-decoration: none;
+        padding: 0px 20px;
+        line-height: 54px;
+        border-right: none;
+        font-size: 18px;
+
+    }
+    .manu ul li:first-child {
+        border-left: none;
+    } .baner {
+        height: 0px;
+    }
+    .baner {
+        padding: 137px 80px;
+    }
+    .baner-caption h1 {
+        font-size: 24px;
+        line-height: 38px;
+        padding: 8px 77px;
+    }
+    .baner-caption p {
+        padding: 13px 5px;
+        font-size: 30px;
+
+    }
+    .baner {
+        padding: 117px 80px;
+    }
+    .about p {
+        font-size: 20px;
+        max-width: 82%;
+    }
+    .about h1 {
+        font-size: 38px;
+        margin-top: 7px;
+    }
+    .service {
+        width: 98%;
+    }
+    /* }
+    .blog-site-l {
+        width: 50%;
+        margin-bottom: 40px;
+    }
+    .blog-site-l img {
+        width: 175px;
+        height: 478px;
+        padding-top: 7px;
+        float: left;
+    }
+    .blog-site-l p {
+        max-width: 213px;
+        font-size: 17px;
+        float: right;
+    } */
+    .blog-site-l {
+        float: inherit;
+    }
+    .blog-site-l img {
+        max-width: 100%;
+        width: 257px;
+        height: auto;
+        margin-left: 10px;
+    }
+    .blog-site-l p {
+        max-width: 275px;
+        font-size: 16px;
+    }
+    .list {
+        float: right;
+        position: relative;
+        right: 26px;
+        bottom: 26px;
+    }
+    .list h1 {
+        font-size: 22px;
+    }
+    .right ul {
+        padding: 16px 40px;
+    }
+    .list ul li {
+        padding: 10px 62px;
+        font-size: 23px;
+    }
+ 
+
+}
+@media(max-width:778px){
+    .blog-site-l img {
+        width: 238px;
+        height: 380px;
+        padding: 6px 3px;
+    }
+    .blog-site-l p {
+        max-width: 56%;
+        font-size: 21px;
+        float: right;
+        padding: 0 10px;
+    }
+    .blog-site-l {
+        width: 100%;
+    }
+    .list {
+        float: none;
+        max-width: 100%;
+        text-align: center;
+        position: inherit;
+    }
+    .list ul li {
+        padding: 14px 181px;
+        font-size: 18px;
+    }
+}
+@media(max-width:610px){
+    .blog-site-l img {
+        width: 185px;
+        height: 228px;
+    }
+    .blog-site-l p {
+        max-width: 57%;
+        font-size: 15px;
+    }
+    .left {
+        width: 100%;
+    }
+    .right {
+        width: 100%;
+    }
+    .right ul {
+        padding: 0px 0px;
+        text-align: center;
+    }
+    .left p {
+        padding: 10px 3px;
+    }
+    .list ul li {
+        padding: 14px 49px;
+        font-size: 18px;
+    }
+}
